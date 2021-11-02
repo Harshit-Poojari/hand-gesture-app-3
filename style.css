@@ -1,0 +1,20 @@
+body
+{
+  color: white;
+  background: palevioletred;
+}
+
+.heading {
+  font-size: 20px;
+  letter-spacing: 10px;
+  border-radius: 10px;
+}
+label {
+ font-size: 15px;
+ padding: 10px;
+ color: red;
+ border-radius: 10px;
+ background-color: lawngreen;
+}
+
+
